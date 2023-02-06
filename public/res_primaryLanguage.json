@@ -21,16 +21,40 @@
       "url": "https://startling-flan-ce4f0b.netlify.app/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "-",
+          "name": "HTML5"
+        },
+        {
+          "class": "-",
+          "name": "CSS3"
+        },
+        {
+          "class": "-",
+          "name": "MongoDB"
+        },
+        {
+          "class": "",
+          "name": "Express"
+        },
+        {
+          "class": "-",
+          "name": "Node"
+        },
+        {
+          "class": "-",
+          "name": "Heroku"
+        },
+        {
+          "class": "-",
+          "name": "Netlify"
         }
       ]
     },
@@ -51,6 +75,34 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "-",
+          "name": "HTML5"
+        },
+        {
+          "class": "-",
+          "name": "CSS3"
+        },
+        {
+          "class": "-",
+          "name": "MongoDB"
+        },
+        {
+          "class": "",
+          "name": "Express"
+        },
+        {
+          "class": "-",
+          "name": "Node"
+        },
+        {
+          "class": "-",
+          "name": "Heroku"
+        },
+        {
+          "class": "-",
+          "name": "Netlify"
         }
       ]
     },
@@ -65,33 +117,45 @@
       "url": "https://weather-window.netlify.app",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "-",
+          "name": "HTML5"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "-",
+          "name": "CSS3"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "-",
+          "name": "Node"
         }
       ]
     },
     {
       "title": "2048",
       "startDate": "2022",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "A replica of 2048.",
       "images": ["images/portfolio/2048/p1.jpg"],
       "url": "https://joyful-liger-ab5a7d.netlify.app",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "-",
+          "name": "HTML5"
         },
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "-",
+          "name": "CSS3"
         }
       ]
     },
@@ -103,12 +167,16 @@
       "url": "https://joyful-liger-ab5a7d.netlify.app",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "-",
+          "name": "HTML5"
         },
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "-",
+          "name": "CSS3"
         }
       ]
     }
