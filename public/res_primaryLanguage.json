@@ -13,10 +13,10 @@
     {
       "title": "Aviato",
       "startDate": "2023",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "description": "-",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/Aviato/p1.jpg",
+        "images/portfolio/Aviato/p2.jpg"
       ],
       "url": "https://startling-flan-ce4f0b.netlify.app/",
       "technologies": [
@@ -37,10 +37,10 @@
     {
       "title": "Twitter 2.0",
       "startDate": "2022",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "Completed in a single week with a Software Engineer a full-stack web application using MongoDB, Express.js, React.js, and Node.js (MERN) and a user-empathetic interface with full-CRUD (create, read, update, and delete) capabilities through RESTful routing. Backend contains two database models (a tweets and comments schema) which serves user JSON data to the front-end.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/Twitter2.0/p1.jpg",
+        "images/portfolio/Twitter2.0/p2.jpg"
       ],
       "url": "https://joyful-liger-ab5a7d.netlify.app",
       "technologies": [
@@ -57,10 +57,10 @@
     {
       "title": "The Weather Window",
       "startDate": "2022",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "description": "A client-rendered application that leverages third-party API and the read-only Navigator.geolocation property to deliver immediate weather forecast results for client's current and future weather. Collaborated with a Software Engineer in a one week sprint, engaged in daily-standups, worked on separate tickets, co-coding on blockers, and practicing version-control to create the wireframe, user stories and development of the application using React.js, JavaScript, JSX, and Node.js.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/WeatherWindow/p1.jpg",
+        "images/portfolio/WeatherWindow/p2.jpg"
       ],
       "url": "https://weather-window.netlify.app",
       "technologies": [
