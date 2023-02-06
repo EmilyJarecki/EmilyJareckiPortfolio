@@ -171,10 +171,15 @@ header h1 {
 }
 
 .polaroid img {
-	display: block;
 	max-width: 200px;
+	height: 300px;
+	width: 300px;
+    display: block;
 }
-
+img{
+	object-fit: cover;
+    display: block;
+}
 .polaroid span {
 	background: #ffffff;
 	display: inline-block;
