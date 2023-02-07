@@ -29,32 +29,32 @@
           "name": "JavaScript"
         },
         {
-          "class": "-",
+          "class": "devicon-html5-plain",
           "name": "HTML5"
         },
         {
-          "class": "-",
+          "class": "devicon-css3-plain",
           "name": "CSS3"
         },
         {
-          "class": "-",
+          "class": "devicon-mongodb-plain",
           "name": "MongoDB"
         },
         {
-          "class": "",
+          "class": "devicon-express-original",
           "name": "Express"
         },
         {
-          "class": "-",
+          "class": "devicon-nodejs-plain",
           "name": "Node"
         },
         {
-          "class": "-",
+          "class": "devicon-heroku-original",
           "name": "Heroku"
         },
         {
-          "class": "-",
-          "name": "Netlify"
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
         }
       ]
     },
@@ -77,32 +77,32 @@
           "name": "JavaScript"
         },
         {
-          "class": "-",
+          "class": "devicon-html5-plain",
           "name": "HTML5"
         },
         {
-          "class": "-",
+          "class": "devicon-css3-plain",
           "name": "CSS3"
         },
         {
-          "class": "-",
+          "class": "devicon-mongodb-plain",
           "name": "MongoDB"
         },
         {
-          "class": "",
+          "class": "devicon-express-original",
           "name": "Express"
         },
         {
-          "class": "-",
+          "class": "devicon-nodejs-plain",
           "name": "Node"
         },
         {
-          "class": "-",
+          "class": "devicon-heroku-original",
           "name": "Heroku"
         },
         {
-          "class": "-",
-          "name": "Netlify"
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
         }
       ]
     },
@@ -117,11 +117,11 @@
       "url": "https://weather-window.netlify.app",
       "technologies": [
         {
-          "class": "-",
+          "class": "devicon-html5-plain",
           "name": "HTML5"
         },
         {
-          "class": "-",
+          "class": "devicon-css3-plain",
           "name": "CSS3"
         },
         {
@@ -133,7 +133,7 @@
           "name": "React"
         },
         {
-          "class": "-",
+          "class": "devicon-nodejs-plain",
           "name": "Node"
         }
       ]
@@ -146,16 +146,16 @@
       "url": "https://joyful-liger-ab5a7d.netlify.app",
       "technologies": [
         {
-          "class": "-",
+          "class": "devicon-html5-plain",
           "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         },
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
-        },
-        {
-          "class": "-",
-          "name": "CSS3"
         }
       ]
     },
@@ -167,15 +167,15 @@
       "url": "https://joyful-liger-ab5a7d.netlify.app",
       "technologies": [
         {
-          "class": "-",
-          "name": "HTML5"
-        },
-        {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
         },
         {
-          "class": "-",
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
           "name": "CSS3"
         }
       ]
@@ -185,7 +185,7 @@
     {
       "company": "General Assembly",
       "title": "Software Engineer Fellow",
-      "years": "10.2019 - present",
+      "years": "10.2022 - present",
       "mainTech": [""],
       "technologies": [
           "JavaScript",

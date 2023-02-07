@@ -24,16 +24,6 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
@@ -49,14 +39,59 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "name": "React.js",
+          "class": "devicon-react-original",
+          "level": "60"
         },
         {
-          "name": "MySql",
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "85"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-express-original",
+          "level": "85"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "85"
+        },
+        {
+          "name": "Heroku",
+          "class": "devicon-heroku-original",
+          "level": "85"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySQL",
           "class": "devicon-mysql-plain",
-          "level": "60"
+          "level": "85"
+        },
+        {
+          "name": "PostgresSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "85"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-original",
+          "level": "85"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "85"
         }
       ]
     }
