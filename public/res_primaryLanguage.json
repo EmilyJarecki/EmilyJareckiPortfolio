@@ -192,6 +192,7 @@
       "title": "Software Engineer Fellow",
       "years": "10.2022 - present",
       "mainTech": [""],
+      "description":["Full-stack software engineering immersive student in an intensive, 12-week, 450+ hour program focused on product development fundamentals, object-oriented programming, MVC frameworks, data modeling, and team collaboration strategies. Developed a portfolio of individual and group projects. Designed and built 3 full-stack applications and 1 client application that interacts with a third-party API. Participated in 2 hackathons."],
       "technologies": [
           "JavaScript",
           "HTML5",
@@ -216,6 +217,7 @@
       "company": "True Food Kitchen",
       "title": "Server",
       "years": "03.2022 - 10.2022",
+      "description":["Managed approximately 8 tables at a time, facilitating communication between 40 clients and kitchen staff. Oversaw the introduction of 30+ new food and drink items per quarter."],
       "mainTech": [""],
       "technologies": ["Communication", "Fast-Paced", "Initiative"]
     },
@@ -224,26 +226,29 @@
       "title": "Sales Associate",
       "years": "07.2018 - 03.2022",
       "mainTech": [""],
+      "description":["Developed a new system of operation leading to an approximate 140% increase in order completion and client satisfaction. Exceeded yearly expectations in sales KP, upselling approximately $100,000 worth of product yearly. Established and became lead administrator of Sales Associate communication platform, managing up to 30 associates' contact information to ensure 100% coverage daily."],
       "technologies": [
-        "Communication"
+        "Communication", "Sales"
       ]
     },
     {
       "company": "William Reed Business Media",
       "title": "Editorial Intern",
       "years": "05.2021 - 08.2021",
+      "description":["Supported and collaborated with Editor-in-Chief to write, meet deadlines, and publish B2B content twice per week for NutraIngredients-USA, CosmeticsDesign-USA, and Outsourcing Pharma. Established strong business relationships, maintained professional correspondence and liaised with 20+ industry managers, directors, suppliers, and press writers through verbal and written communication to support press releases, research, and commentaries."],
       "mainTech": [""],
       "technologies": [
-        "Communication"
+        "Communication", "Editorial"
       ]
     },
     {
       "company": "Flower Bomb Media",
       "title": "Editorial Intern",
       "years": "12.2020 - 05.2021",
+      "description":["Founded 2 new columns for magazines New Face Magazine and Dreamlette. Conceptualized and produced 30+ articles for global fashion and entertainment magazine, New Face Magazine, which produced 17 issues that year and has 64k+ followers on social media."],
       "mainTech": [""],
       "technologies": [
-        "Communication"
+        "Communication", "Editorial"
       ]
     }
   ]
