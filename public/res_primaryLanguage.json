@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "I am a full-stack developer with a background in editorial and client services, which means I have a solid foundation of team communication, an obsession for detail, research, and a knack for inspiring cross-functional teams. I specialize in full-stack JavaScript technologies (MERN Stack - MongoDB, Express.js, React.js, Node.js) to build complete web applications with API systems with responsive user interfaces.",
+    "description": "I am a full-stack developer who specializes in JavaScript technologies (MERN Stack - MongoDB, Express.js, React.js, Node.js) to build complete web applications with API systems with responsive user interfaces. I have background in editorial and client services, which means I have a solid foundation of team communication, an obsession for detail, research, and a knack for inspiring cross-functional teams.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -13,7 +13,7 @@
     {
       "title": "Aviato",
       "startDate": "2023",
-      "description": "-",
+      "description": "Aviato is a full-stack e-commerce site inpired by today's growing small businesses. Created independently in a single week, it was built using MongoDB, Express.js, React.js, and Node.js (MERN) with the addition of bcrypt for user authentication. It uses three models and has full CRUD functionality throughout the site.",
       "images": [
         "images/portfolio/Aviato/p1.jpg",
         "images/portfolio/Aviato/p2.jpg"
@@ -144,7 +144,7 @@
     {
       "title": "2048",
       "startDate": "2022",
-      "description": "A replica of 2048.",
+      "description": "A browser-based game utilizing JavaScript, CSS, and HTML. Responsive on mobile devices.",
       "images": ["images/portfolio/2048/p1.jpg"],
       "url": "https://joyful-liger-ab5a7d.netlify.app",
       "GHurl": "https://github.com/EmilyJarecki/my2048",
@@ -232,13 +232,21 @@
       ]
     },
     {
+      "company": "University of Illinois at Chicago",
+      "title": "Undergraduate",
+      "years": "08.2018 - 12.2021",
+      "description":["Bachelors in English. Contentration in professional writing."],
+      "mainTech": [""],
+      "technologies": ["Summa Cum Laude", "Dean's List", "GPA: 4.0"]
+    },
+    {
       "company": "William Reed Business Media",
       "title": "Editorial Intern",
       "years": "05.2021 - 08.2021",
       "description":["Supported and collaborated with Editor-in-Chief to write, meet deadlines, and publish B2B content twice per week for NutraIngredients-USA, CosmeticsDesign-USA, and Outsourcing Pharma. Established strong business relationships, maintained professional correspondence and liaised with 20+ industry managers, directors, suppliers, and press writers through verbal and written communication to support press releases, research, and commentaries."],
       "mainTech": [""],
       "technologies": [
-        "Communication", "Editorial"
+        "Communication", "Editorial", "Time Management"
       ]
     },
     {
@@ -248,7 +256,7 @@
       "description":["Founded 2 new columns for magazines New Face Magazine and Dreamlette. Conceptualized and produced 30+ articles for global fashion and entertainment magazine, New Face Magazine, which produced 17 issues that year and has 64k+ followers on social media."],
       "mainTech": [""],
       "technologies": [
-        "Communication", "Editorial"
+        "Communication", "Editorial", "Collaboration"
       ]
     }
   ]

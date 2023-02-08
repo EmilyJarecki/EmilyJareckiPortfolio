@@ -24,7 +24,6 @@ class ProjectDetailsModal extends Component {
                       {icons.name}
                     </p>
                   </i>
-                  
                 </div>
               </span>
             </li>
@@ -80,7 +79,9 @@ class ProjectDetailsModal extends Component {
           </div>
           <div className="col-md-10 mx-auto">
             <h3 style={{ padding: "5px 5px 0 5px" }}>
-              {title}
+              <p style={{ fontSize: "24px" }}>{title}</p>
+              <div style={{ display: "flex", flexDirection: "row" }}>
+
               {url ? (
                 <a
                   href={url}
@@ -88,10 +89,10 @@ class ProjectDetailsModal extends Component {
                   rel="noopener noreferrer"
                   className="link-href"
                 >
-                  <i
-                    className="fas fa-external-link-alt"
-                    style={{ marginLeft: "10px" }}
-                  ></i>
+                  <img
+                    src="https://img.icons8.com/glyph-neue/512/link.png"
+                    style={{ width: "24px" }}
+                  />
                 </a>
               ) : null}
               {GHurl ? (
@@ -101,12 +102,15 @@ class ProjectDetailsModal extends Component {
                   rel="noopener noreferrer"
                   className="link-href"
                 >
-                  <i
-                    className="fab fa-github"
-                    style={{ marginLeft: "10px" }}
-                  ></i>
+                  <img
+                    src="https://img.icons8.com/glyph-neue/512/github.png"
+                    style={{ width: "25px", margin: "0 0 0 10px" }}
+                  />
                 </a>
               ) : null}
+              </div>
+
+
             </h3>
             <p className="modal-description">{description}</p>
             <div className="col-md-12 text-center">
