@@ -15,8 +15,11 @@
         "startDate": "2023",
         "description": "Aviato to kompleksowa witryna e-commerce, zainspirowana dzisiejszymi rozwijającymi się małymi firmami. Stworzony niezależnie w ciągu jednego tygodnia, został zbudowany przy użyciu MongoDB, Express.js, React.js i Node.js (MERN) z dodatkiem bcrypt do uwierzytelniania użytkowników. Wykorzystuje trzy modele i ma pełną funkcjonalność CRUD w całej witrynie.",
         "images": [
+          "images/portfolio/Aviato/p2.jpg",
           "images/portfolio/Aviato/p1.jpg",
-          "images/portfolio/Aviato/p2.jpg"
+          "images/portfolio/Aviato/p3.jpg",
+          "images/portfolio/Aviato/p4.jpg",
+          "images/portfolio/Aviato/p5.jpg"
         ],
         "url": "https://startling-flan-ce4f0b.netlify.app/",
         "GHurl": "https://github.com/EmilyJarecki/e-commerce",
