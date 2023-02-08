@@ -66,3 +66,7 @@ a:hover svg path,
 a:hover svg circle {
   fill: white;
 }
+.github-corner{
+  width: 90px;
+  height: 90px;
+}
