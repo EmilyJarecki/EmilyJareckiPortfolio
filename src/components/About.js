@@ -3,6 +3,7 @@ import { Icon } from "@iconify/react";
 import pythonIcon from "@iconify/icons-logos/python";
 import reactIcon from "@iconify/icons-logos/react";
 import javascriptIcon from "@iconify/icons-logos/javascript";
+import "../css/header.css";
 
 class About extends Component {
   render() {

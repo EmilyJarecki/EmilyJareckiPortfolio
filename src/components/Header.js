@@ -44,9 +44,11 @@ class Header extends Component {
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />
               </h1>
+              
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
+              
               <Switch
                 checked={this.state.checked}
                 onChange={this.onThemeSwitchChange}
@@ -87,6 +89,7 @@ class Header extends Component {
                 }
                 id="icon-switch"
               />
+              
             </div>
           </div>
         </div>
