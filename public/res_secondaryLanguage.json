@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description": "Jestem programistą full-stack, który specjalizuje się w technologiach JavaScript (MERN Stack - MongoDB, Express.js, React.js, Node.js) do budowy kompletnych aplikacji webowych z systemami API z responsywnymi interfejsami użytkownika. Mam doświadczenie w redagowaniu i obsłudze klienta, co oznacza, że ​​mam solidne podstawy komunikacji zespołowej, obsesję na punkcie szczegółów, badań i talent do inspirowania wielofunkcyjnych zespołów.",
       "section_name": {
         "about": "O mnie",
         "projects": "Projekty",
@@ -11,38 +11,15 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Aviato",
+        "startDate": "2023",
+        "description": "Aviato to kompleksowa witryna e-commerce, zainspirowana dzisiejszymi rozwijającymi się małymi firmami. Stworzony niezależnie w ciągu jednego tygodnia, został zbudowany przy użyciu MongoDB, Express.js, React.js i Node.js (MERN) z dodatkiem bcrypt do uwierzytelniania użytkowników. Wykorzystuje trzy modele i ma pełną funkcjonalność CRUD w całej witrynie.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Aviato/p1.jpg",
+          "images/portfolio/Aviato/p2.jpg"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://startling-flan-ce4f0b.netlify.app/",
+        "GHurl": "https://github.com/EmilyJarecki/e-commerce",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,66 +28,237 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Twitter 2.0",
+        "startDate": "2022",
+        "description": "Ukończono w ciągu jednego tygodnia z inżynierem oprogramowania kompleksową aplikację internetową przy użyciu MongoDB, Express.js, React.js i Node.js (MERN) oraz interfejs empatyczny dla użytkownika z pełnym CRUD (tworzenie, odczytywanie, aktualizowanie, i usuwanie) za pośrednictwem routingu RESTful. Backend zawiera dwa modele baz danych (schemat tweetów i komentarzy), które obsługują dane JSON użytkownika do front-endu.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Twitter2.0/p1.jpg",
+          "images/portfolio/Twitter2.0/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://joyful-liger-ab5a7d.netlify.app",
+        "GHurl":"https://github.com/orgs/SpeakerTwitter/repositories",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "The Weather Window",
+        "startDate": "2022",
+        "description": "Aplikacja renderowana przez klienta, która wykorzystuje interfejs API innej firmy i właściwość Navigator.geolocation tylko do odczytu, aby dostarczać natychmiastowe wyniki prognozy pogody dla bieżącej i przyszłej pogody klienta. Współpracowałem z inżynierem oprogramowania w tygodniowym sprincie, angażowałem się w codzienne standupy, pracowałem nad osobnymi zgłoszeniami, współkodowałem blokery i ćwiczyłem kontrolę wersji w celu stworzenia szkieletu, historii użytkowników i rozwoju aplikacji przy użyciu React.js, JavaScript, JSX i Node.js.",
+        "images": [
+          "images/portfolio/WeatherWindow/p1.jpg",
+          "images/portfolio/WeatherWindow/p2.jpg"
+        ],
+        "url": "https://weather-window.netlify.app",
+        "GHurl": "https://github.com/EmilyJarecki/Project-2-Weather-App",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          }
+        ]
+      },
+      {
+        "title": "2048",
+        "startDate": "2022",
+        "description": "Gra przeglądarkowa wykorzystująca JavaScript, CSS i HTML. Responsywne na urządzeniach mobilnych.",
+        "images": ["images/portfolio/2048/p1.jpg"],
+        "url": "https://joyful-liger-ab5a7d.netlify.app",
+        "GHurl": "https://github.com/EmilyJarecki/my2048",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Candy Crush Memory Match",
+        "startDate": "2022",
+        "description": "Gra przeglądarkowa, która angażuje użytkowników w grę w dopasowywanie pamięci inspirowaną Candy Crush Saga.",
+        "images": ["images/portfolio/CandyCrush/p1.jpg"],
+        "url": "https://joyful-liger-ab5a7d.netlify.app",
+        "GHurl": "https://github.com/EmilyJarecki/Candy-Crush-Saga-Memory-Matcher",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
+        "company": "General Assembly",
+        "title": "Software Engineer Fellow",
+        "years": "10.2022 - present",
+        "mainTech": [""],
+        "description":["Wciągający student inżynierii oprogramowania z pełnym stosem w intensywnym, 12-tygodniowym, ponad 450-godzinnym programie skoncentrowanym na podstawach rozwoju produktu, programowaniu obiektowym, frameworkach MVC, modelowaniu danych i strategiach współpracy zespołowej. Opracował portfolio projektów indywidualnych i grupowych. Zaprojektował i zbudował 3 aplikacje z pełnym stosem i 1 aplikację kliencką, która współdziała z interfejsem API innej firmy. Uczestniczył w 2 hackathonach."],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Python",
+            "MongoDB",
+            "Sass",
+            "SQL",
+            "Netlify",
+            "Heroku",
+            "PostgresSQL",
+            "React",
+            "Express",
+            "Bootstrap",
+            "Flask",
+            "Django",
+            "RESTful Routing",
+            "NPM"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
+        "company": "True Food Kitchen",
+        "title": "Serwer",
+        "years": "03.2022 - 10.2022",
+        "description":["Zarządzał jednocześnie około 8 stołami, ułatwiając komunikację między 40 klientami a personelem kuchni. Nadzorowałem wprowadzanie ponad 30 nowych artykułów żywnościowych i napojów na kwartał."],
+        "mainTech": [""],
+        "technologies": ["Komunikacja", "Szybkie tempo", "Inicjatywa"]
+      },
+      {
+        "company": "Crate & Barrel",
+        "title": "Współpracownik Sprzedaży",
+        "years": "07.2018 - 03.2022",
+        "mainTech": [""],
+        "description":["Opracowałem nowy system działania prowadzący do około 140% wzrostu realizacji zamówień i zadowolenia klientów. Przekroczył roczne oczekiwania w zakresie KPI sprzedaży, sprzedając produkty o wartości około 100 000 USD rocznie. Założył i został głównym administratorem platformy komunikacyjnej Sales Associate, zarządzając danymi kontaktowymi do 30 współpracowników, aby zapewnić 100% pokrycie każdego dnia."],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Komunikacja", "Obroty"
+        ]
+      },
+      {
+        "company": "University of Illinois at Chicago",
+        "title": "Undergraduate",
+        "years": "08.2018 - 12.2021",
+        "description":["Licencjat z języka angielskiego. Contentration w profesjonalnym piśmie."],
+        "mainTech": [""],
+        "technologies": ["Summa Cum Laude", "Dean's List", "GPA: 4.0"]
+      },
+      {
+        "company": "William Reed Business Media",
+        "title": "Praktykant redakcyjny",
+        "years": "05.2021 - 08.2021",
+        "description":["Wspierał i współpracował z redaktorem naczelnym przy pisaniu, dotrzymywaniu terminów i publikowaniu treści B2B dwa razy w tygodniu dla NutraIngredients-USA, CosmeticsDesign-USA i Outsourcing Pharma. Nawiązał silne relacje biznesowe, utrzymywał profesjonalną korespondencję i współpracował z ponad 20 menedżerami branżowymi, dyrektorami, dostawcami i pisarzami prasowymi poprzez komunikację ustną i pisemną w celu wspierania komunikatów prasowych, badań i komentarzy."],
+        "mainTech": [""],
+        "technologies": [
+          "Komunikacja", "Redakcyjny", "Zarządzanie czasem"
+        ]
+      },
+      {
+        "company": "Flower Bomb Media",
+        "title": "Praktykant redakcyjny",
+        "years": "12.2020 - 05.2021",
+        "description":["Założyła 2 nowe rubryki dla magazynów New Face Magazine i Dreamlette. Opracował koncepcję i wyprodukował ponad 30 artykułów dla globalnego magazynu o modzie i rozrywce, New Face Magazine, który w tym roku wydał 17 numerów i ma ponad 64 tysiące obserwujących w mediach społecznościowych."],
+        "mainTech": [""],
+        "technologies": [
+          "Komunikacja", "Redakcyjny", "Współpraca"
         ]
       }
     ]
   }
+  
