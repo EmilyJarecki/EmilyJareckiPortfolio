@@ -472,3 +472,17 @@ footer a:focus {
 .skill-sec{
 	color: #5C2018;
 }
+.download{
+	margin: 30px;
+}
+.download-button{
+	border: 2px solid white;
+	padding: 15px;
+	box-shadow: -5px 5px 10px rgb(116, 115, 115);
+}
+.download-button:hover{
+	transition: 0.3s all ease-in-out;
+	background-color: white;
+	color: black;
+	text-decoration:none;
+}
