@@ -39,6 +39,7 @@ class Projects extends Component {
                   <p className="project-title-settings mt-3">
                     {projects.title}
                   </p>
+                  <h5>{projects.tech}</h5>
                 </div>
               </div>
             </span>
@@ -48,10 +49,10 @@ class Projects extends Component {
     }
 
     return (
-      <section id="portfolio">
+      <section className="portfolio" id="portfolio">
         <div className="col-md-12">
           <h1 className="section-title" style={{ color: "black" }}>
-            <span>{sectionName}</span>
+            <span className="proj-sec">{sectionName}</span>
           </h1>
           <div className="col-md-12 mx-auto projects">
             <div className="row mx-auto">{projects}</div>

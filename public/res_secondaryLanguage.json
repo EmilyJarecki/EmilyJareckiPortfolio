@@ -23,6 +23,7 @@
         ],
         "url": "https://aviato-e-comm.netlify.app",
         "GHurl": "https://github.com/EmilyJarecki/e-commerce",
+        "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js • Heroku • Netlify • Bootstrap • Bcrypt • JSX",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -72,6 +73,7 @@
         ],
         "url": "https://joyful-liger-ab5a7d.netlify.app",
         "GHurl":"https://github.com/orgs/SpeakerTwitter/repositories",
+        "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js • Heroku • Netlify • Bootstrap • JSX",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -121,6 +123,7 @@
         ],
         "url": "https://weather-window.netlify.app",
         "GHurl": "https://github.com/EmilyJarecki/Project-2-Weather-App",
+        "tech": "HTML5 • CSS3 • React.js • Node.js • Bootstrap",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -151,6 +154,7 @@
         "images": ["images/portfolio/2048/p1.jpg"],
         "url": "https://joyful-liger-ab5a7d.netlify.app",
         "GHurl": "https://github.com/EmilyJarecki/my2048",
+        "tech": "JavaScript • HTML5 • CSS3",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -173,6 +177,7 @@
         "images": ["images/portfolio/CandyCrush/p1.jpg"],
         "url": "https://joyful-liger-ab5a7d.netlify.app",
         "GHurl": "https://github.com/EmilyJarecki/Candy-Crush-Saga-Memory-Matcher",
+        "tech": "JavaScript • HTML5 • CSS3",
         "technologies": [
           {
             "class": "devicon-javascript-plain",

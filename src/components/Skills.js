@@ -28,8 +28,8 @@ class Skills extends Component {
       <section id="skills">
         <div className="col-md-12">
           <div className="col-md-12">
-            <h1 className="section-title">
-              <span className="text-white">{sectionName}</span>
+            <h1 className="skill-sec section-title">
+              <span className=" skill-sec">{sectionName}</span>
             </h1>
           </div>
           <div className="col-md-12 text-center">

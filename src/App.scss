@@ -41,7 +41,13 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url("https://images.unsplash.com/photo-1518655048521-f130df041f66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80");
+	background-repeat: no-repeat;
+	  background-position: center;
+	  background-attachment: fixed;
+	  background-size: cover;
+	  height: 100vh;
+	  width: 100vw;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -54,7 +60,11 @@ header {
 	font-size: 50px;
 	cursor: pointer;
 }
+.about-back{
+	background-color:#BC4639
 
+	;
+}
 .project-date {
 	font-size: 16px;
 	// font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -63,21 +73,25 @@ header {
 	z-index: -500;
 	border-top: 5px solid #696969;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
+	background-color:#D4A59A;
 	color: white;
 }
-
+.card-header{
+	color: #4285F4;
+}
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: #5c2018c2;
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
 	border-radius: 8px;
 }
-
+.skill-sec{
+	color: #5C2018;
+}
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color:  #F3E0DC	;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -105,13 +119,19 @@ header h1 {
 	margin-top: 10px;
 }
 
+.styles_typicalWrapper__1_Uvh{
+		color:#4285F4
+		;
+
+}
 .styles_typicalWrapper__1_Uvh::after {
 	cursor: none !important;
 	display: none;
+
 }
 
 #about {
-	background: #fff;
+	background-color: #BC4639	;
 	overflow: hidden;
 }
 
@@ -121,13 +141,15 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
 	text-align: center;
 }
 
 .foto img {
 	display: block;
 	width: 100%;
+}
+.sectionName{
+	color: #4285F4
 }
 
 .foto div {
@@ -185,6 +207,9 @@ img{
 	object-fit: cover;
     display: block;
 }
+.aboutme-sec{
+color: white;
+}
 .polaroid span {
 	background: #ffffff;
 	display: inline-block;
@@ -216,7 +241,7 @@ img{
 
 #preview {
 	width: 500px;
-	background-color: #ebeaf5;
+	background-color: #EAE7DC;
 	padding: 15px;
 	position: relative;
 	margin-bottom: 15%;
@@ -229,7 +254,8 @@ img{
 }
 
 #resume {
-	background: #efe1bd;
+	background:#BC4639
+	;
 }
 
 .experience-icon {
@@ -254,8 +280,8 @@ img{
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
-	color: black;
+	background-color:#F3E0DC	!important;
+	color: #4285F4;
 	// font-weight: lighter !important;
 	// font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -351,7 +377,7 @@ img{
 }
 
 #portfolio {
-	background: #efe1bd;
+	background-color: #D4A59A;
 	padding-bottom: 5%;
 }
 
@@ -387,11 +413,17 @@ img{
 }
 
 #skills {
-	background: #1F1F1F;
-	min-height: 200px;
-	width: 100%;
-	overflow: hidden;
-	padding-bottom: 10%;
+	background-image: url("https://images.unsplash.com/photo-1518655048521-f130df041f66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80");
+	background-repeat: no-repeat;
+	  background-position: center;
+	  background-attachment: fixed;
+	  background-size: cover;
+	  height: 100vh;
+	  width: 100vw;	
+	//   min-height: 200px;
+	// width: 100%;
+	// overflow: hidden;
+	// padding-bottom: 10%;
 }
 
 .section-title {
@@ -403,7 +435,9 @@ img{
 	color: #fff;
 	text-align: center;
 }
-
+.exp-section{
+color: white;
+}
 .skill-icon {
 	font-size: 180%;
 	color: white;
@@ -432,3 +466,9 @@ footer a:focus {
 	color: #fff;
 }
 
+.exp-date{
+	color: #4285F4;
+}
+.skill-sec{
+	color: #5C2018;
+}
