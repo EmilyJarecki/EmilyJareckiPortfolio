@@ -57,9 +57,19 @@ class Footer extends Component {
         </nav>
         <div className="col-md-12">
           <div className="download">
-            <a className="download-button" target="_blank" href="images/portfolio/Resume.png">Download CV</a>
+            <a
+              className="download-button"
+              target="_blank"
+              href="images/portfolio/Resume.png"
+            >
+              Download CV
+            </a>
           </div>
-
+          <div>
+            <a className="static-email" href="mailto:jareckiemily@yahoo.com">
+              jareckiemily@yahoo.com
+            </a>
+          </div>
           <div className="copyright py-4 text-center">
             <div className="container">
               <small>

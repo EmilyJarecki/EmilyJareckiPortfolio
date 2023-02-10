@@ -1,8 +1,4 @@
 import React, { Component } from "react";
-import { Icon } from "@iconify/react";
-import pythonIcon from "@iconify/icons-logos/python";
-import reactIcon from "@iconify/icons-logos/react";
-import javascriptIcon from "@iconify/icons-logos/javascript";
 import "../css/header.css";
 
 class About extends Component {
@@ -23,30 +19,6 @@ class About extends Component {
             <span className="aboutme-sec">{sectionName}</span>
           </h1>
           <div className="row center mx-auto mb-5">
-            {/* <div className="col-md-4 mb-5 center">
-              <div className="polaroid">
-                <span style={{ cursor: "auto" }}>
-                  <img
-                    height="250px"
-                    src="https://i.imgur.com/yK00HBP.jpg"
-                    alt="Avatar placeholder"
-                  />
-                  <Icon
-                    icon={pythonIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={javascriptIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                </span>
-              </div>
-            </div> */}
-
             <div className="about-div col-md-8 center">
               <div className="col-md-10">
                 <div className="card">
