@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "I am a full-stack developer who specializes in JavaScript technologies (MERN Stack - MongoDB, Express.js, React.js, Node.js) to build complete web applications with API systems with responsive user interfaces. I have background in editorial and client services, which means I have a solid foundation of team communication, an obsession for detail, research, and a knack for inspiring cross-functional teams.",
+    "description": "I am a full-stack developer who specializes in JavaScript technologies (MongoDB, Express.js, React.js, Node.js) to build complete web applications with API systems and responsive user interfaces. I have a background in editorial and client services, which means I have a solid foundation of team communication, an obsession for detail, research, and a knack for inspiring cross-functional teams.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
