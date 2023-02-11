@@ -156,7 +156,7 @@
       "startDate": "2022",
       "description": "A browser-based game utilizing JavaScript, CSS, and HTML. Responsive on mobile devices.",
       "images": ["images/portfolio/2048/p1.jpg"],
-      "url": "https://joyful-liger-ab5a7d.netlify.app",
+      "url": "https://iridescent-melba-0e8849.netlify.app",
       "GHurl": "https://github.com/EmilyJarecki/my2048",
       "tech": "JavaScript • HTML5 • CSS3",
       "technologies": [
@@ -179,7 +179,7 @@
       "startDate": "2022",
       "description": "A browser-based game to engage users in a Candy Crush Saga inspired memory matching game.",
       "images": ["images/portfolio/CandyCrush/p1.jpg"],
-      "url": "https://joyful-liger-ab5a7d.netlify.app",
+      "url": "https://splendorous-kashata-58ad30.netlify.app",
       "GHurl": "https://github.com/EmilyJarecki/Candy-Crush-Saga-Memory-Matcher",
       "tech": "JavaScript • HTML5 • CSS3",
       "technologies": [
