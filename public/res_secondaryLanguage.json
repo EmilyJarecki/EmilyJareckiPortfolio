@@ -19,7 +19,7 @@
           "images/portfolio/Spotify/p1.jpg"
         ],
         "GHurl": "https://github.com/EmilyJarecki/Spotify_Django",
-        "tech": "Python • Django • PostgreSQL • HTML5 • CSS3 • JQuery",
+        "tech": "Python • Django • PostgreSQL • HTML5 • CSS3 • JQuery ",
         "technologies": [
           {
             "class": "devicon-python-plain",
