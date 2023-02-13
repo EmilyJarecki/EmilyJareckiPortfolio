@@ -11,6 +11,43 @@
     },
     "projects": [
       {
+        "title": "Spotify",
+        "startDate": "2023",
+        "description": "Ten pełny klon Spotify został stworzony przy użyciu Django i Pythona z bazą danych SQL. Wykorzystuje uwierzytelnianie użytkownika. Użytkownicy mają pełne możliwości CRUD w dwóch modelach, które mają relacje 1:1, 1:M i M:M w całej witrynie.",
+        "images": [
+          "images/portfolio/Spotify/p2.jpg",
+          "images/portfolio/Spotify/p1.jpg"
+        ],
+        "GHurl": "https://github.com/EmilyJarecki/Spotify_Django",
+        "tech": "Python • Django • PostgreSQL • HTML5 • CSS3 • JQuery",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },        
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostreSQL"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "JQuery"
+          }
+        ]
+      },
+      {
         "title": "Aviato",
         "startDate": "2023",
         "description": "Aviato to kompleksowa witryna e-commerce, zainspirowana dzisiejszymi rozwijającymi się małymi firmami. Stworzony niezależnie w ciągu jednego tygodnia, został zbudowany przy użyciu MongoDB, Express.js, React.js i Node.js (MERN) z dodatkiem bcrypt do uwierzytelniania użytkowników. Wykorzystuje trzy modele i ma pełną funkcjonalność CRUD w całej witrynie.",
