@@ -60,7 +60,7 @@ class Footer extends Component {
             <a
               className="download-button"
               target="_blank"
-              href="images/portfolio/Resume.png"
+              href="https://drive.google.com/file/d/1S-A-SMAeLpAiLpSdBa9KhDWTLEJdXN0K/view?usp=share_link"
             >
               Download CV
             </a>
