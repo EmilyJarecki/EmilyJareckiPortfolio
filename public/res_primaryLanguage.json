@@ -5,6 +5,7 @@
     "section_name": {
       "about": "About me",
       "projects": "Projects",
+      "smaller_projects": "Smaller Projects",
       "skills": "Skills",
       "experience": "Experience"
     }
@@ -211,6 +212,31 @@
         }
       ]
     },
+    {
+      "title": "Candy Crush Memory Match",
+      "startDate": "2022",
+      "description": "A browser-based game to engage users in a Candy Crush Saga inspired memory matching game.",
+      "images": ["images/portfolio/CandyCrush/p1.jpg"],
+      "url": "https://splendorous-kashata-58ad30.netlify.app",
+      "GHurl": "https://github.com/EmilyJarecki/Candy-Crush-Saga-Memory-Matcher",
+      "tech": "JavaScript • HTML5 • CSS3",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    }
+  ],
+  "smaller_projects": [
     {
       "title": "Candy Crush Memory Match",
       "startDate": "2022",
