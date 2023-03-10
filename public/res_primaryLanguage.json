@@ -188,8 +188,73 @@
           "name": "Bootstrap"
         }
       ]
-    },
+    }
+    
+  ],
+  "smaller_projects": [
     {
+      "title": "Portfolio Template",
+      "startDate": "2023",
+      "description": "A browser-based game utilizing JavaScript, CSS, and HTML. Responsive on mobile devices.",
+      "images": ["images/portfolio/2048/p1.jpg"],
+      "url": "https://iridescent-melba-0e8849.netlify.app",
+      "GHurl": "https://github.com/EmilyJarecki/my2048",
+      "tech": "JavaScript • HTML5 • CSS3",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },{
+      "title": "HyperRealism",
+      "startDate": "2023",
+      "description": "A browser-based game utilizing JavaScript, CSS, and HTML. Responsive on mobile devices.",
+      "images": ["images/portfolio/2048/p1.jpg"],
+      "url": "https://iridescent-melba-0e8849.netlify.app",
+      "GHurl": "https://github.com/EmilyJarecki/my2048",
+      "tech": "JavaScript • HTML5 • CSS3",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },{
+      "title": "Interval Timer",
+      "startDate": "2023",
+      "description": "An interval timer. Responsive on mobile devices.",
+      "images": ["images/portfolio/Timer/p1.jpg"],
+      "url": "https://roundintervaltimer.netlify.app",
+      "GHurl": "https://github.com/EmilyJarecki/intervaltimer",
+      "tech": "JavaScript • HTML5 • CSS3",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },{
       "title": "2048",
       "startDate": "2022",
       "description": "A browser-based game utilizing JavaScript, CSS, and HTML. Responsive on mobile devices.",
@@ -212,31 +277,6 @@
         }
       ]
     },
-    {
-      "title": "Candy Crush Memory Match",
-      "startDate": "2022",
-      "description": "A browser-based game to engage users in a Candy Crush Saga inspired memory matching game.",
-      "images": ["images/portfolio/CandyCrush/p1.jpg"],
-      "url": "https://splendorous-kashata-58ad30.netlify.app",
-      "GHurl": "https://github.com/EmilyJarecki/Candy-Crush-Saga-Memory-Matcher",
-      "tech": "JavaScript • HTML5 • CSS3",
-      "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS3"
-        }
-      ]
-    }
-  ],
-  "smaller_projects": [
     {
       "title": "Candy Crush Memory Match",
       "startDate": "2022",
