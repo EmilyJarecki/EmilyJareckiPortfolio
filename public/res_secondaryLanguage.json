@@ -5,6 +5,7 @@
       "section_name": {
         "about": "O mnie",
         "projects": "Projekty",
+        "smaller_projects": "Smaller Projects",
         "skills": "Umiejętności",
         "experience": "Doświadczenie"
       }
@@ -183,11 +184,75 @@
             "name": "Node"
           }
         ]
-      },
+      }
+    ],
+    "smaller_projects": [
       {
+        "title": "Portfolio Template",
+        "startDate": "2023",
+        "description": "Ten projekt był jedynie ćwiczeniem z projektowania UX/UI i animacji tekstu, zbudowanym w kilka godzin. Nie reaguje na urządzenia mobilne ani nie używa React.js, chociaż ma potencjał.",
+        "images": ["images/portfolio/Port/p1.jpg"],
+        "url": "https://portfoliocoverpage.netlify.app",
+        "GHurl": "https://github.com/EmilyJarecki/newspaper-portfolio-page",
+        "tech": "HTML5 • CSS3",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },{
+        "title": "HyperRealism",
+        "startDate": "2023",
+        "description": "Działający kalkulator TI-108 dla szkoły podstawowej. Celem tego ćwiczenia było zbliżenie się jak najbardziej do rzeczywistości.",
+        "images": ["images/portfolio/Calc/p1.jpg"],
+        "url": "https://throwbackcalc.netlify.app",
+        "GHurl": "https://github.com/EmilyJarecki/calculator",
+        "tech": "JavaScript • HTML5 • CSS3",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },{
+        "title": "Interval Timer",
+        "startDate": "2023",
+        "description": "Użytkownik może dostosować timer interwałowy. Responsywne na urządzeniach mobilnych.",
+        "images": ["images/portfolio/Timer/p1.jpg"],
+        "url": "https://roundintervaltimer.netlify.app",
+        "GHurl": "https://github.com/EmilyJarecki/intervaltimer",
+        "tech": "JavaScript • HTML5 • CSS3",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },{
         "title": "2048",
         "startDate": "2022",
-        "description": "Gra przeglądarkowa wykorzystująca JavaScript, CSS i HTML. Responsywne na urządzeniach mobilnych.",
+        "description": "A browser-based game utilizing JavaScript, CSS, and HTML. Responsive on mobile devices.",
         "images": ["images/portfolio/2048/p1.jpg"],
         "url": "https://iridescent-melba-0e8849.netlify.app",
         "GHurl": "https://github.com/EmilyJarecki/my2048",
@@ -210,7 +275,7 @@
       {
         "title": "Candy Crush Memory Match",
         "startDate": "2022",
-        "description": "Gra przeglądarkowa, która angażuje użytkowników w grę w dopasowywanie pamięci inspirowaną Candy Crush Saga.",
+        "description": "A browser-based game to engage users in a Candy Crush Saga inspired memory matching game.",
         "images": ["images/portfolio/CandyCrush/p1.jpg"],
         "url": "https://splendorous-kashata-58ad30.netlify.app",
         "GHurl": "https://github.com/EmilyJarecki/Candy-Crush-Saga-Memory-Matcher",

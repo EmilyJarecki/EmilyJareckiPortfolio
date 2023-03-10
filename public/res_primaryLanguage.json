@@ -195,7 +195,7 @@
     {
       "title": "Portfolio Template",
       "startDate": "2023",
-      "description": "This project was merely an excercise in UX/UI design and text animation, built in a few hours. Not mobile responsive nor uses React.js, although it has the potential.",
+      "description": "This project was merely an exercise in UX/UI design and text animation, built in a few hours. Not mobile responsive nor uses React.js, although it has the potential.",
       "images": ["images/portfolio/Port/p1.jpg"],
       "url": "https://portfoliocoverpage.netlify.app",
       "GHurl": "https://github.com/EmilyJarecki/newspaper-portfolio-page",
@@ -213,7 +213,7 @@
     },{
       "title": "HyperRealism",
       "startDate": "2023",
-      "description": "A functioning elementary school calculator. The purpose of this excercise was to get as close as possible to real-life.",
+      "description": "A functioning TI-108 elementary school calculator. The purpose of this exercise was to get as close as possible to real-life.",
       "images": ["images/portfolio/Calc/p1.jpg"],
       "url": "https://throwbackcalc.netlify.app",
       "GHurl": "https://github.com/EmilyJarecki/calculator",
@@ -235,7 +235,7 @@
     },{
       "title": "Interval Timer",
       "startDate": "2023",
-      "description": "An interval timer. Responsive on mobile devices.",
+      "description": "A user-customizable interval timer. Responsive on mobile devices.",
       "images": ["images/portfolio/Timer/p1.jpg"],
       "url": "https://roundintervaltimer.netlify.app",
       "GHurl": "https://github.com/EmilyJarecki/intervaltimer",
