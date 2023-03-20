@@ -12,6 +12,51 @@
     },
     "projects": [
       {
+        "title": "Quest Runner",
+        "startDate": "2023",
+        "description": "Współpraca z 4 programistami i 3 projektantami UI/UX w celu stworzenia zgrywalizowanego systemu przydzielania zadań i nagradzania przy użyciu MERN, 4 modeli relacyjnych baz danych i uwierzytelniania użytkowników podczas 4-dniowego hackathonu, który zdobył ulubieniec publiczności. Przyjazny dla użytkownika interfejs umożliwia rodzicom rejestrowanie dzieci, przydzielanie zadań i nagród za pomocą wartości monet, a dzieciom logowanie, oznaczanie zadań jako ukończonych i odbieranie nagród za pomocą funkcji zwiększania i zmniejszania.",
+        "images": [
+          "images/portfolio/QuestRunner/p2.jpg",
+          "images/portfolio/QuestRunner/p1.jpg",
+          "images/portfolio/QuestRunner/p3.jpg",
+          "images/portfolio/QuestRunner/p4.jpg",
+          "images/portfolio/QuestRunner/p5.jpg",
+          "images/portfolio/QuestRunner/p6.jpg"
+        ],
+        "GHurl": "https://github.com/npereznyc/task-quest-frontend",
+        "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js •  Bootstrap • JSX",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React.js"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express.js"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          }
+        ]
+      },
+      {
         "title": "Spotify",
         "startDate": "2023",
         "description": "Ten pełny klon Spotify został stworzony przy użyciu Django i Pythona z bazą danych SQL. Wykorzystuje uwierzytelnianie użytkownika. Użytkownicy mają pełne możliwości CRUD w dwóch modelach, które mają relacje 1:1, 1:M i M:M w całej witrynie.",
