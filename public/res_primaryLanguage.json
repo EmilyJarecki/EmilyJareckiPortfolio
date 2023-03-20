@@ -23,6 +23,7 @@
         "images/portfolio/QuestRunner/p5.jpg",
         "images/portfolio/QuestRunner/p6.jpg"
       ],
+      "url": "https://quest-runner.netlify.app/",
       "GHurl": "https://github.com/npereznyc/task-quest-frontend",
       "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js •  Bootstrap • JSX",
       "technologies": [
