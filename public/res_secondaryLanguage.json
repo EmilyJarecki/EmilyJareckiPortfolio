@@ -3,9 +3,9 @@
       "description_header": "Cześć",
       "description": "Jestem programistą full-stack, który specjalizuje się w technologiach JavaScript (MERN Stack - MongoDB, Express.js, React.js, Node.js) do budowy kompletnych aplikacji webowych z systemami API z responsywnymi interfejsami użytkownika. Mam doświadczenie w redagowaniu i obsłudze klienta, co oznacza, że ​​mam solidne podstawy komunikacji zespołowej, obsesję na punkcie szczegółów, badań i talent do inspirowania wielofunkcyjnych zespołów.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "smaller_projects": "Smaller Projects",
+        "about": "O Mnie",
+        "projects": "Projekty Fabularne",
+        "smaller_projects": "Mniejsze Projekty",
         "skills": "Umiejętności",
         "experience": "Doświadczenie"
       }

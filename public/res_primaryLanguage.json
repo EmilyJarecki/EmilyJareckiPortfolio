@@ -4,7 +4,7 @@
     "description": "I am a full-stack developer who specializes in JavaScript technologies (MongoDB, Express.js, React.js, Node.js) to build complete web applications with API systems and responsive user interfaces. I have a background in editorial and client services, which means I have a solid foundation of team communication, an obsession for detail, research, and a knack for inspiring cross-functional teams.",
     "section_name": {
       "about": "About me",
-      "projects": "Projects",
+      "projects": "Feature Projects",
       "smaller_projects": "Smaller Projects",
       "skills": "Skills",
       "experience": "Experience"
@@ -196,44 +196,6 @@
           "name": "Bootstrap"
         }
       ]
-    },
-    {
-      "title": "The Weather Window",
-      "startDate": "2022",
-      "description": "A client-rendered application that leverages third-party API and the read-only Navigator.geolocation property to deliver immediate weather forecast results for client's current and future weather. Collaborated with a Software Engineer in a one week sprint, engaged in daily-standups, worked on separate tickets, co-coding on blockers, and practicing version-control to create the wireframe, user stories and development of the application using React.js, JavaScript, JSX, and Node.js.",
-      "images": [
-        "images/portfolio/WeatherWindow/p1.jpg",
-        "images/portfolio/WeatherWindow/p2.jpg"
-      ],
-      "url": "https://weather-window.netlify.app",
-      "GHurl": "https://github.com/EmilyJarecki/Project-2-Weather-App",
-      "tech": "HTML5 • CSS3 • React.js • Node.js • Bootstrap",
-      "technologies": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS3"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-react-original",
-          "name": "React.js"
-        },
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "Node.js"
-        },
-        {
-          "class": "devicon-bootstrap-plain",
-          "name": "Bootstrap"
-        }
-      ]
     }
     
   ],
@@ -300,7 +262,46 @@
           "name": "JavaScript"
         }
       ]
-    },{
+    },
+    {
+      "title": "The Weather Window",
+      "startDate": "2022",
+      "description": "A client-rendered application that leverages third-party API and the read-only Navigator.geolocation property to deliver immediate weather forecast results for client's current and future weather. Collaborated with a Software Engineer in a one week sprint, engaged in daily-standups, worked on separate tickets, co-coding on blockers, and practicing version-control to create the wireframe, user stories and development of the application using React.js, JavaScript, JSX, and Node.js.",
+      "images": [
+        "images/portfolio/WeatherWindow/p1.jpg",
+        "images/portfolio/WeatherWindow/p2.jpg"
+      ],
+      "url": "https://weather-window.netlify.app",
+      "GHurl": "https://github.com/EmilyJarecki/Project-2-Weather-App",
+      "tech": "HTML5 • CSS3 • React.js • Node.js • Bootstrap",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
       "title": "2048",
       "startDate": "2022",
       "description": "A browser-based game utilizing JavaScript, CSS, and HTML. Responsive on mobile devices.",
