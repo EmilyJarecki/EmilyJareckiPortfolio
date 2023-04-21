@@ -201,6 +201,24 @@
   ],
   "smaller_projects": [
     {
+      "title": "Inventory Management Application",
+      "startDate": "2023",
+      "description": "A menu driven application to manage the inventory in an online store. It allows you to create a profile and become an admin of a store where you can add stock, sales, purchases, and view stock, purchase, and sales reports using 4 seperate files as a codebase.",
+      "images": ["images/portfolio/Csharp/p1.jpg"],
+      "GHurl": "https://github.com/EmilyJarecki/c-sharp-inventory",
+      "tech": "C# • .NET Core",
+      "technologies": [
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".NET Core"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
       "title": "Portfolio Template",
       "startDate": "2023",
       "description": "This project was merely an exercise in UX/UI design and text animation, built in a few hours. Not mobile responsive nor uses React.js, although it has the potential.",

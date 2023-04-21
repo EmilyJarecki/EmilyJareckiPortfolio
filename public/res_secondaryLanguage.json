@@ -195,43 +195,27 @@
             "name": "Bootstrap"
           }
         ]
-      },
-      {
-        "title": "The Weather Window",
-        "startDate": "2022",
-        "description": "Aplikacja renderowana przez klienta, która wykorzystuje interfejs API innej firmy i właściwość Navigator.geolocation tylko do odczytu, aby dostarczać natychmiastowe wyniki prognozy pogody dla bieżącej i przyszłej pogody klienta. Współpracowałem z inżynierem oprogramowania w tygodniowym sprincie, angażowałem się w codzienne standupy, pracowałem nad osobnymi zgłoszeniami, współkodowałem blokery i ćwiczyłem kontrolę wersji w celu stworzenia szkieletu, historii użytkowników i rozwoju aplikacji przy użyciu React.js, JavaScript, JSX i Node.js.",
-        "images": [
-          "images/portfolio/WeatherWindow/p1.jpg",
-          "images/portfolio/WeatherWindow/p2.jpg"
-        ],
-        "url": "https://weather-window.netlify.app",
-        "GHurl": "https://github.com/EmilyJarecki/Project-2-Weather-App",
-        "tech": "HTML5 • CSS3 • React.js • Node.js • Bootstrap",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "Node"
-          }
-        ]
       }
     ],
     "smaller_projects": [
+      {
+        "title": "Inventory Management Application",
+        "startDate": "2023",
+        "description": "Aplikacja oparta na menu do zarządzania stanami magazynowymi w sklepie internetowym. Pozwala stworzyć profil i zostać administratorem sklepu, w którym możesz dodawać stany magazynowe, sprzedaże, zakupy oraz przeglądać raporty stanów magazynowych, zakupów i sprzedaży przy użyciu 4 oddzielnych plików jako bazy kodu.",
+        "images": ["images/portfolio/Csharp/p1.jpg"],
+        "GHurl": "https://github.com/EmilyJarecki/c-sharp-inventory",
+        "tech": "C# • .NET Core",
+        "technologies": [
+          {
+            "class": "devicon-dotnetcore-plain",
+            "name": ".NET Core"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
       {
         "title": "Portfolio Template",
         "startDate": "2023",
@@ -292,6 +276,40 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "The Weather Window",
+        "startDate": "2022",
+        "description": "Aplikacja renderowana przez klienta, która wykorzystuje interfejs API innej firmy i właściwość Navigator.geolocation tylko do odczytu, aby dostarczać natychmiastowe wyniki prognozy pogody dla bieżącej i przyszłej pogody klienta. Współpracowałem z inżynierem oprogramowania w tygodniowym sprincie, angażowałem się w codzienne standupy, pracowałem nad osobnymi zgłoszeniami, współkodowałem blokery i ćwiczyłem kontrolę wersji w celu stworzenia szkieletu, historii użytkowników i rozwoju aplikacji przy użyciu React.js, JavaScript, JSX i Node.js.",
+        "images": [
+          "images/portfolio/WeatherWindow/p1.jpg",
+          "images/portfolio/WeatherWindow/p2.jpg"
+        ],
+        "url": "https://weather-window.netlify.app",
+        "GHurl": "https://github.com/EmilyJarecki/Project-2-Weather-App",
+        "tech": "HTML5 • CSS3 • React.js • Node.js • Bootstrap",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
           }
         ]
       },{
