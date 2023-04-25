@@ -12,6 +12,47 @@
   },
   "projects": [
     {
+      "title": "DevBlogs",
+      "startDate": "2023",
+      "description": "A blog application where the articles are markdown files and utilizes Next.js's MDX extension to parse Markdown and JSX metadata into readable content. It utilizes Tailwind for styling and cross-browser compatability, TypeScript for type-checking, and Next.js for server-side rendering and optimized performance.",
+      "images": ["images/portfolio/Blog/p2.jpg", "images/portfolio/Blog/p1.jpg"],
+      "url": "https://dev-blogs-brown.vercel.app/blogs",
+      "GHurl": "https://github.com/EmilyJarecki/dev-blogs",
+      "tech": "TypeScript • Next.js • Tailwind CSS",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next.js"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        }
+      ]
+    },
+    {
+      "title": "Inventory Management Application",
+      "startDate": "2023",
+      "description": "A menu driven application to manage the inventory in an online store. It allows you to create a profile and become an admin of a store where you can add stock, sales, purchases, and view stock, purchase, and sales reports using 4 seperate files as a codebase.",
+      "images": ["images/portfolio/Csharp/p1.jpg"],
+      "GHurl": "https://github.com/EmilyJarecki/c-sharp-inventory",
+      "tech": "C# • .NET Core",
+      "technologies": [
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".NET Core"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
       "title": "Quest Runner",
       "startDate": "2023",
       "description": "A collaboration with 4 Software Developers and 3 UI/UX designers to create a gamified task assignment and reward system using MERN, 4 relational database models, and user authentication in a 4-day hackathon that won crowd favorite. User-friendly interface the ability for parents to register children, assign tasks and rewards with coin values, and for children to login, mark tasks complete, and redeem rewards through an increment and decrement function.",
@@ -25,7 +66,7 @@
       ],
       "url": "https://quest-runner.netlify.app/",
       "GHurl": "https://github.com/npereznyc/task-quest-frontend",
-      "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js •  Bootstrap • JSX",
+      "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js •  Bootstrap",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -107,7 +148,7 @@
       ],
       "url": "https://aviato-e-comm.netlify.app",
       "GHurl": "https://github.com/EmilyJarecki/e-commerce",
-      "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js • Heroku • Netlify • Bootstrap • Bcrypt • JSX",
+      "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js • Heroku • Netlify • Bootstrap • Bcrypt",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -157,7 +198,7 @@
       ],
       "url": "https://twittertwopoint0.netlify.app/",
       "GHurl":"https://github.com/orgs/SpeakerTwitter/repositories",
-      "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js • Heroku • Netlify • Bootstrap • JSX",
+      "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js • Heroku • Netlify • Bootstrap",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -196,28 +237,32 @@
           "name": "Bootstrap"
         }
       ]
+    },    {
+      "title": "2048",
+      "startDate": "2022",
+      "description": "A browser-based game utilizing JavaScript, CSS, and HTML. Responsive on mobile devices.",
+      "images": ["images/portfolio/2048/p1.jpg"],
+      "url": "https://iridescent-melba-0e8849.netlify.app",
+      "GHurl": "https://github.com/EmilyJarecki/my2048",
+      "tech": "JavaScript • HTML5 • CSS3",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
     }
     
   ],
   "smaller_projects": [
-    {
-      "title": "Inventory Management Application",
-      "startDate": "2023",
-      "description": "A menu driven application to manage the inventory in an online store. It allows you to create a profile and become an admin of a store where you can add stock, sales, purchases, and view stock, purchase, and sales reports using 4 seperate files as a codebase.",
-      "images": ["images/portfolio/Csharp/p1.jpg"],
-      "GHurl": "https://github.com/EmilyJarecki/c-sharp-inventory",
-      "tech": "C# • .NET Core",
-      "technologies": [
-        {
-          "class": "devicon-dotnetcore-plain",
-          "name": ".NET Core"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    },
     {
       "title": "Portfolio Template",
       "startDate": "2023",

@@ -12,6 +12,47 @@
     },
     "projects": [
       {
+        "title": "DevBlogs",
+        "startDate": "2023",
+        "description": "Aplikacja blogowa, w której artykuły są plikami przecen i wykorzystuje rozszerzenie MDX Next.js do analizowania metadanych Markdown i JSX w czytelną treść. Wykorzystuje Tailwind do stylizacji i kompatybilności z różnymi przeglądarkami, TypeScript do sprawdzania typów oraz Next.js do renderowania po stronie serwera i optymalizacji wydajności.",
+        "images": ["images/portfolio/Blog/p2.jpg", "images/portfolio/Blog/p1.jpg"],
+        "url": "https://dev-blogs-brown.vercel.app/blogs",
+        "GHurl": "https://github.com/EmilyJarecki/dev-blogs",
+        "tech": "TypeScript • Next.js • Tailwind CSS",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind CSS"
+          }
+        ]
+      },
+      {
+        "title": "Aplikacja do Zarządzania Zapasami",
+        "startDate": "2023",
+        "description": "Aplikacja oparta na menu do zarządzania stanami magazynowymi w sklepie internetowym. Pozwala stworzyć profil i zostać administratorem sklepu, w którym możesz dodawać stany magazynowe, sprzedaże, zakupy oraz przeglądać raporty stanów magazynowych, zakupów i sprzedaży przy użyciu 4 oddzielnych plików jako bazy kodu.",
+        "images": ["images/portfolio/Csharp/p1.jpg"],
+        "GHurl": "https://github.com/EmilyJarecki/c-sharp-inventory",
+        "tech": "C# • .NET Core",
+        "technologies": [
+          {
+            "class": "devicon-dotnetcore-plain",
+            "name": ".NET Core"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
         "title": "Quest Runner",
         "startDate": "2023",
         "description": "Współpraca z 4 programistami i 3 projektantami UI/UX w celu stworzenia zgrywalizowanego systemu przydzielania zadań i nagradzania przy użyciu MERN, 4 modeli relacyjnych baz danych i uwierzytelniania użytkowników podczas 4-dniowego hackathonu, który zdobył ulubieniec publiczności. Przyjazny dla użytkownika interfejs umożliwia rodzicom rejestrowanie dzieci, przydzielanie zadań i nagród za pomocą wartości monet, a dzieciom logowanie, oznaczanie zadań jako ukończonych i odbieranie nagród za pomocą funkcji zwiększania i zmniejszania.",
@@ -24,7 +65,7 @@
           "images/portfolio/QuestRunner/p6.jpg"
         ],
         "GHurl": "https://github.com/npereznyc/task-quest-frontend",
-        "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js •  Bootstrap • JSX",
+        "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js •  Bootstrap",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -106,7 +147,7 @@
         ],
         "url": "https://aviato-e-comm.netlify.app",
         "GHurl": "https://github.com/EmilyJarecki/e-commerce",
-        "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js • Heroku • Netlify • Bootstrap • Bcrypt • JSX",
+        "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js • Heroku • Netlify • Bootstrap • Bcrypt",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -156,7 +197,7 @@
         ],
         "url": "https://twittertwopoint0.netlify.app/",
         "GHurl":"https://github.com/orgs/SpeakerTwitter/repositories",
-        "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js • Heroku • Netlify • Bootstrap • JSX",
+        "tech": "React.js • JavaScript • HTML5 • CSS3 • MongoDB • Express.js • Node.js • Heroku • Netlify • Bootstrap",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -195,27 +236,32 @@
             "name": "Bootstrap"
           }
         ]
+      },
+      {
+        "title": "2048",
+        "startDate": "2022",
+        "description": "A browser-based game utilizing JavaScript, CSS, and HTML. Responsive on mobile devices.",
+        "images": ["images/portfolio/2048/p1.jpg"],
+        "url": "https://iridescent-melba-0e8849.netlify.app",
+        "GHurl": "https://github.com/EmilyJarecki/my2048",
+        "tech": "JavaScript • HTML5 • CSS3",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
       }
     ],
     "smaller_projects": [
-      {
-        "title": "Inventory Management Application",
-        "startDate": "2023",
-        "description": "Aplikacja oparta na menu do zarządzania stanami magazynowymi w sklepie internetowym. Pozwala stworzyć profil i zostać administratorem sklepu, w którym możesz dodawać stany magazynowe, sprzedaże, zakupy oraz przeglądać raporty stanów magazynowych, zakupów i sprzedaży przy użyciu 4 oddzielnych plików jako bazy kodu.",
-        "images": ["images/portfolio/Csharp/p1.jpg"],
-        "GHurl": "https://github.com/EmilyJarecki/c-sharp-inventory",
-        "tech": "C# • .NET Core",
-        "technologies": [
-          {
-            "class": "devicon-dotnetcore-plain",
-            "name": ".NET Core"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
       {
         "title": "Portfolio Template",
         "startDate": "2023",
@@ -310,28 +356,6 @@
           {
             "class": "devicon-nodejs-plain",
             "name": "Node"
-          }
-        ]
-      },{
-        "title": "2048",
-        "startDate": "2022",
-        "description": "A browser-based game utilizing JavaScript, CSS, and HTML. Responsive on mobile devices.",
-        "images": ["images/portfolio/2048/p1.jpg"],
-        "url": "https://iridescent-melba-0e8849.netlify.app",
-        "GHurl": "https://github.com/EmilyJarecki/my2048",
-        "tech": "JavaScript • HTML5 • CSS3",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
           }
         ]
       },
