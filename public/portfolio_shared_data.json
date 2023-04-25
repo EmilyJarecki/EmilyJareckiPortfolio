@@ -34,11 +34,6 @@
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
           "name": "React.js",
           "class": "devicon-react-original",
           "level": "60"
@@ -49,23 +44,13 @@
           "level": "85"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
           "name": "Node.js",
           "class": "devicon-nodejs-plain",
           "level": "85"
         },
         {
-          "name": "Express",
+          "name": "Express.js",
           "class": "devicon-express-original",
-          "level": "85"
-        },
-        {
-          "name": "Heroku",
-          "class": "devicon-heroku-original",
           "level": "85"
         },
         {
@@ -76,11 +61,6 @@
         {
           "name": "PostgresSQL",
           "class": "devicon-postgresql-plain",
-          "level": "85"
-        },
-        {
-          "name": "Flask",
-          "class": "devicon-flask-original",
           "level": "85"
         },
         {
@@ -96,6 +76,21 @@
         {
           "name": "C#",
           "class": "devicon-csharp-plain",
+          "level": "85"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "85"
+        },
+        {
+          "name": "Tailwind CSS",
+          "class": "devicon-tailwindcss-plain",
+          "level": "85"
+        },
+        {
+          "name": "Next.js",
+          "class": "devicon-nextjs-plain",
           "level": "85"
         }
       ]
