@@ -413,6 +413,16 @@
   ],
   "experience": [
     {
+      "company": " The Opportunity Project 2023",
+      "title": "Software Engineer",
+      "years": "05.2023 - Currently",
+      "mainTech": [""],
+      "description":["Collaborated with a team of 15+ Software Engineers, Product and UX/UI Designers, UX Researchers, Data Scientists and Data Analysts on The Opportunity Project, led by the US Census Bureau, the US Department of Commerce and the FDA. Used federal data to build an application that will empower consumers (patients) through knowledge of privacy and security regarding their health dat"],
+      "technologies": [
+          ""
+      ]
+    },
+    {
       "company": "General Assembly",
       "title": "Software Engineer Fellow",
       "years": "10.2022 - 02.2023",
@@ -425,17 +435,14 @@
           "Python",
           "MongoDB",
           "Sass",
-          "SQL",
-          "Netlify",
-          "Heroku",
-          "PostgresSQL",
-          "React",
-          "Express",
+          "PostgreSQL",
+          "React.js",
+          "Node.js",
+          "Express.js",
           "Bootstrap",
-          "Flask",
           "Django",
           "RESTful Routing",
-          "NPM"
+          "OOP"
       ]
     },
     {
