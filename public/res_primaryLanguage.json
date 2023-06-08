@@ -12,6 +12,29 @@
   },
   "projects": [
     {
+      "title": "Black Owned Business Tracker",
+      "startDate": "2023",
+      "description": "A web application that utilizes the ArcGIS API for JavaScript which tracks Black owned businesses in the Los Angeles area. Data courtesy of Black Girls M.A.P.P. Allows for client-side filtering data based on type of industry and utilizes ArcGIS route service.",
+      "images": ["images/portfolio/ArcGIS/p1.jpg"],
+      "url": "https://blackownedbusinessinlosangeles.netlify.app",
+      "GHurl": "https://github.com/EmilyJarecki/arcGIS",
+      "tech": "JavaScript • HTML • CSS • ArcGIS API",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
       "title": "DevBlogs",
       "startDate": "2023",
       "description": "A blog application where the articles are markdown files and utilizes Next.js's MDX extension to parse Markdown and JSX metadata into readable content. It utilizes Tailwind for styling and cross-browser compatability, TypeScript for type-checking, and Next.js for server-side rendering and optimized performance.",
