@@ -408,6 +408,16 @@
     ],
     "experience": [
       {
+        "company": "SpaceLab",
+        "title": "DevOps Engineer Intern",
+        "years": "06.2023 - Currently",
+        "mainTech": [""],
+        "description":["Prowadził spotkania zespołu DevOps w celu omówienia 2-tygodniowych sprintów MVP, w tym hostowania stron docelowych na żywo w subdomenie, debugowania i wdrażania interfejsów API GraphQL i REST z wykorzystaniem AWS. Zaktualizowano interesariuszy projektu i zespół współpracujący między sobą na temat postępów DevOps, identyfikując przeszkody i kolejne kroki."],
+        "technologies": [
+            "AWS", "Linux"
+        ]
+      },
+      {
         "company": "General Assembly",
         "title": "Software Engineer Fellow",
         "years": "10.2022 - 02.2023",

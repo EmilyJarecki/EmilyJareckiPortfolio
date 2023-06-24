@@ -436,7 +436,17 @@
   ],
   "experience": [
     {
-      "company": " The Opportunity Project 2023",
+      "company": "SpaceLab",
+      "title": "DevOps Engineer Intern",
+      "years": "06.2023 - Currently",
+      "mainTech": [""],
+      "description":["Led DevOps team meetings to discuss 2-week sprint MVPs including hosting landing pages live on subdomain, debugging, and deploying GraphQL and REST APIs utilizing AWS. Updated project stakeholders and cross-collaborative team on DevOps progress, identifying road-blockers and next steps."],
+      "technologies": [
+          "AWS", "Linux"
+      ]
+    },
+    {
+      "company": "The Opportunity Project 2023",
       "title": "Software Engineer",
       "years": "05.2023 - Currently",
       "mainTech": [""],
