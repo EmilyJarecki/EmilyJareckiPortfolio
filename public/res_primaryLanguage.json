@@ -452,7 +452,7 @@
       "mainTech": [""],
       "description":["Collaborated with a team of 15+ Software Engineers, Product and UX/UI Designers, UX Researchers, Data Scientists and Data Analysts on The Opportunity Project, led by the US Census Bureau, the US Department of Commerce and the FDA. Used federal data to build an application that will empower consumers (patients) through knowledge of privacy and security regarding their health data."],
       "technologies": [
-          ""
+          "Next.js", "JavaScript", "MongoDB", "Tailwind CSS"
       ]
     },
     {
@@ -463,11 +463,11 @@
       "description":["Full-stack software engineering immersive student in an intensive, 12-week, 450+ hour program focused on product development fundamentals, object-oriented programming, MVC frameworks, data modeling, and team collaboration strategies. Developed a portfolio of individual and group projects. Designed and built 3 full-stack applications and 1 client application that interacts with a third-party API. Participated in 2 hackathons."],
       "technologies": [
           "JavaScript",
-          "HTML5",
-          "CSS3",
+          "HTML",
+          "CSS",
           "Python",
           "MongoDB",
-          "Sass",
+          "SASS",
           "PostgreSQL",
           "React.js",
           "Node.js",
