@@ -6,6 +6,7 @@
       "about": "About me",
       "projects": "Feature Projects",
       "smaller_projects": "Smaller Projects",
+      "figma": "Product Design",
       "skills": "Skills",
       "experience": "Experience"
     }
@@ -430,6 +431,22 @@
         {
           "class": "devicon-css3-plain",
           "name": "CSS3"
+        }
+      ]
+    }
+  ],
+  "figma":[
+    {
+      "title": "Quest Runner Wireframe",
+      "startDate": "2023",
+      "description": "Wireframe for Quest Runner",
+      "images": ["images/portfolio/QRunnerWireframe/p1.jpg","images/portfolio/QRunnerWireframe/p2.jpg","images/portfolio/QRunnerWireframe/p3.jpg","images/portfolio/QRunnerWireframe/p4.jpg"],
+      "url": "https://www.figma.com/file/mxfodlHwimedeEwuBBb3YD/Hackathon23Group1?type=design&node-id=20-787&mode=design&t=BCGmyNbhSNaumuiH-0https://www.figma.com/file/mxfodlHwimedeEwuBBb3YD/Hackathon23Group1?type=design&node-id=20-787&mode=design&t=BCGmyNbhSNaumuiH-0",
+      "tech": "FIGMA",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
         }
       ]
     }

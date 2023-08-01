@@ -8,6 +8,7 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import SmallerProjects from "./components/SmallerProjects";
+import Figma from "./components/Figma";
 
 class App extends Component {
 
@@ -130,6 +131,10 @@ class App extends Component {
           resumeProjects={this.state.resumeData.smaller_projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
         /> */}
+          <Figma
+          resumeProjects={this.state.resumeData.figma}
+          resumeBasicInfo={this.state.resumeData.basic_info}
+        />
         <Skills
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
