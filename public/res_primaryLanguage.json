@@ -439,28 +439,28 @@
     {
       "title": "Aviato Wireframe",
       "startDate": "2023",
-      "description": "Wireframe for Aviato",
+      "description": "Independently teamed up with an exceptional product designer to conceive an innovative wireframe, transforming the cart, checkout, payment, and successful purchase pages into a harmonious blend of aesthetics and functionality.",
       "images": ["images/portfolio/AviatoWireframe/p1.jpg","images/portfolio/AviatoWireframe/p2.jpg","images/portfolio/AviatoWireframe/p3.jpg","images/portfolio/AviatoWireframe/p4.jpg","images/portfolio/AviatoWireframe/p5.jpg"],
       "url": "https://www.figma.com/file/xsjuKf5wh5P6yQJ5tKdn4f/Aviato-Project?type=design&node-id=1-3&mode=design&t=VVtZ9g0HuXrSvsFR-0",
       "tech": "Figma",
       "technologies": [
         {
-          "class": "",
-          "name": ""
+          "class": "devicon-figma-plain",
+          "name": "Figma"
         }
       ]
     },
     {
       "title": "Quest Runner Wireframe",
       "startDate": "2023",
-      "description": "Wireframe for Quest Runner",
+      "description": "Co-led a dynamic team of three talented UI/UX designers in a high-impact, 4-day hackathon, capturing the crowd's hearts with a winning wireframe showcasing captivating medieval gamification experiences across both mobile and desktop platforms.",
       "images": ["images/portfolio/QRunnerWireframe/p1.jpg","images/portfolio/QRunnerWireframe/p2.jpg","images/portfolio/QRunnerWireframe/p3.jpg","images/portfolio/QRunnerWireframe/p4.jpg"],
       "url": "https://www.figma.com/file/mxfodlHwimedeEwuBBb3YD/Hackathon23Group1?type=design&node-id=20-787&mode=design&t=BCGmyNbhSNaumuiH-0https://www.figma.com/file/mxfodlHwimedeEwuBBb3YD/Hackathon23Group1?type=design&node-id=20-787&mode=design&t=BCGmyNbhSNaumuiH-0",
       "tech": "Figma",
       "technologies": [
         {
-          "class": "",
-          "name": ""
+          "class": "devicon-figma-plain",
+          "name": "Figma"
         }
       ]
     }

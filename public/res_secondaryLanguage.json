@@ -411,28 +411,28 @@
       {
         "title": "Aviato Wireframe",
         "startDate": "2023",
-        "description": "Wireframe for Aviato",
+        "description": "Niezależna współpraca z wyjątkowym projektantem produktów w celu opracowania innowacyjnego modelu szkieletowego, przekształcającego strony koszyka, kasy, płatności i udanych zakupów w harmonijne połączenie estetyki i funkcjonalności.",
         "images": ["images/portfolio/AviatoWireframe/p1.jpg","images/portfolio/AviatoWireframe/p2.jpg","images/portfolio/AviatoWireframe/p3.jpg","images/portfolio/AviatoWireframe/p4.jpg","images/portfolio/AviatoWireframe/p5.jpg"],
         "url": "https://www.figma.com/file/xsjuKf5wh5P6yQJ5tKdn4f/Aviato-Project?type=design&node-id=1-3&mode=design&t=VVtZ9g0HuXrSvsFR-0",
         "tech": "Figma",
         "technologies": [
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-figma-plain",
+            "name": "Figma"
           }
         ]
       },
       {
         "title": "Quest Runner Wireframe",
         "startDate": "2023",
-        "description": "Wireframe for Quest Runner",
+        "description": "Współprzewodniczył dynamicznemu zespołowi trzech utalentowanych projektantów UI/UX podczas 4-dniowego hackathonu o dużym wpływie, podbijając serca tłumu zwycięskim szkieletem prezentującym wciągające średniowieczne grywalizacja na platformach mobilnych i stacjonarnych.",
         "images": ["images/portfolio/QRunnerWireframe/p1.jpg","images/portfolio/QRunnerWireframe/p2.jpg","images/portfolio/QRunnerWireframe/p3.jpg","images/portfolio/QRunnerWireframe/p4.jpg"],
         "url": "https://www.figma.com/file/mxfodlHwimedeEwuBBb3YD/Hackathon23Group1?type=design&node-id=20-787&mode=design&t=BCGmyNbhSNaumuiH-0https://www.figma.com/file/mxfodlHwimedeEwuBBb3YD/Hackathon23Group1?type=design&node-id=20-787&mode=design&t=BCGmyNbhSNaumuiH-0",
         "tech": "Figma",
         "technologies": [
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-figma-plain",
+            "name": "Figma"
           }
         ]
       }
