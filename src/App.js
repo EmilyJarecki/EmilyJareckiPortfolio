@@ -131,10 +131,10 @@ class App extends Component {
           resumeProjects={this.state.resumeData.smaller_projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
         /> */}
-          <Figma
+          {/* <Figma
           resumeProjects={this.state.resumeData.figma}
           resumeBasicInfo={this.state.resumeData.basic_info}
-        />
+        /> */}
         <Skills
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
