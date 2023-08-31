@@ -467,19 +467,19 @@
   ],
   "experience": [
     {
-      "company": "SpaceLab",
+      "company": "Med-Vet International",
       "title": "DevOps Engineer Intern",
-      "years": "06.2023 - Currently",
+      "years": "08.2023 - Currently",
       "mainTech": [""],
-      "description":["Led DevOps team meetings to discuss 2-week sprint MVPs including hosting landing pages live on subdomain, debugging, and deploying GraphQL and REST APIs utilizing AWS. Updated project stakeholders and cross-collaborative team on DevOps progress, identifying road-blockers and next steps."],
+      "description":[""],
       "technologies": [
-          "AWS", "Linux"
+          "JavaScript", "HTML", "CSS", "Klaviyo", "Adobe", "Smarty", "Bootstrap", "jQuery"
       ]
     },
     {
       "company": "The Opportunity Project 2023",
       "title": "Software Engineer",
-      "years": "05.2023 - Currently",
+      "years": "05.2023 - 08.2023",
       "mainTech": [""],
       "description":["Collaborated with a team of 15+ Software Engineers, Product and UX/UI Designers, UX Researchers, Data Scientists and Data Analysts on The Opportunity Project, led by the US Census Bureau, the US Department of Commerce and the FDA. Used federal data to build an application that will empower consumers (patients) through knowledge of privacy and security regarding their health data."],
       "technologies": [
