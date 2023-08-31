@@ -471,7 +471,7 @@
       "title": "DevOps Engineer Intern",
       "years": "08.2023 - Currently",
       "mainTech": [""],
-      "description":[""],
+      "description":["Seamlessly integrated backend and frontend using Smarty, a PHP parser, to ensure efficient data flow and dynamic content presentation on web pages. Demonstrated proficiency in API integration by making successful API calls, enabling seamless communication between different software systems and enhancing overall functionality. Leveraged Klaviyo to design and execute impactful email marketing campaigns, enhancing customer engagement and brand communication."],
       "technologies": [
           "JavaScript", "HTML", "CSS", "Klaviyo", "Adobe", "Smarty", "Bootstrap", "jQuery"
       ]
