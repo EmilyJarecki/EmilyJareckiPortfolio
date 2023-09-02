@@ -13,6 +13,33 @@
     },
     "projects": [
       {
+        "title": "Make My Test Count",
+        "startDate": "2023",
+        "description": "The Opportunity Project ułatwia 12-tygodniowe cykle rozwoju produktów, które przyciągają innowatorów z każdego sektora. Zespoły technologiczne przyłączają się do sprintu, aby tworzyć rozwiązania oparte na danych dla krytycznych problemów stojących przed społeczeństwem. Wyzwanie: Testy do diagnostyki in vitro (IVD), takie jak testy na SARS-CoV-2 lub COVID-19, są krytycznymi źródłami danych dla ekosystemu opieki zdrowotnej. Jednak wraz z pojawieniem się nowych, dostępnych w dowolnym miejscu i nie laboratoryjnych testów przechwytywanie danych generowanych przez te testy wymaga innowacji i nowych technologii cyfrowych. Rzucamy wyzwanie zespołom, aby stworzyły narzędzia integrujące nowe technologie, takie jak przechwytywanie obrazu i IoT, z urządzeniami do badania IVD, aby pomóc w łatwym przechwytywaniu i przesyłaniu tych informacji, robiąc to zgodnie ze standardami danych najlepszych praktyk.",
+        "images": ["images/portfolio/TOP/p1.jpg", "images/portfolio/TOP/p2.jpg", "images/portfolio/TOP/p3.jpg", "images/portfolio/TOP/p4.jpg", "images/portfolio/TOP/p5.jpg", "images/portfolio/TOP/p6.jpg"],
+        "url": "https://top-project.vercel.app/",
+        "GHurl": "https://github.com/EmilyJarecki/TOP-Project",
+        "tech": "JavaScript • React.js • Next.js • Tailwind CSS",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React.js"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind CSS"
+          }
+        ]
+      },
+      {
         "title": "Black Owned Business Tracker",
         "startDate": "2023",
         "description": "Aplikacja internetowa wykorzystująca interfejs ArcGIS API for JavaScript, która śledzi firmy należące do osób czarnoskórych w rejonie Los Angeles. Dane dzięki uprzejmości Black Girls M.A.P.P. Umożliwia filtrowanie danych po stronie klienta w oparciu o rodzaj branży i wykorzystuje usługę trasy ArcGIS.",
