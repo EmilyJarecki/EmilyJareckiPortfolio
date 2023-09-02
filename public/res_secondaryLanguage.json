@@ -466,13 +466,33 @@
     ],
     "experience": [
       {
+        "company": "Med-Vet International",
+        "title": "Web Developer/Designer",
+        "years": "08.2023 - Currently",
+        "mainTech": [""],
+        "description":["Płynnie zintegrowany backend i frontend przy użyciu Smarty, parsera PHP, aby zapewnić efektywny przepływ danych i dynamiczną prezentację treści na stronach internetowych. Wykazano biegłość w integracji API poprzez wykonywanie udanych wywołań API, umożliwiając bezproblemową komunikację pomiędzy różnymi systemami oprogramowania i zwiększając ogólną funkcjonalność. Wykorzystał Klaviyo do projektowania i realizacji skutecznych kampanii e-mail marketingu, zwiększających zaangażowanie klientów i komunikację marki."],
+        "technologies": [
+            "JavaScript", "HTML", "CSS", "Klaviyo", "Adobe", "Smarty", "Bootstrap", "jQuery"
+        ]
+      },
+      {
         "company": "SpaceLab",
         "title": "DevOps Engineer Intern",
-        "years": "06.2023 - Currently",
+        "years": "06.2023 - 08.2023",
         "mainTech": [""],
         "description":["Prowadził spotkania zespołu DevOps w celu omówienia 2-tygodniowych sprintów MVP, w tym hostowania stron docelowych na żywo w subdomenie, debugowania i wdrażania interfejsów API GraphQL i REST z wykorzystaniem AWS. Zaktualizowano interesariuszy projektu i zespół współpracujący między sobą na temat postępów DevOps, identyfikując przeszkody i kolejne kroki."],
         "technologies": [
             "AWS", "Linux"
+        ]
+      },
+      {
+        "company": "The Opportunity Project 2023",
+        "title": "Software Engineer",
+        "years": "05.2023 - 08.2023",
+        "mainTech": [""],
+        "description":["Współpracował z zespołem ponad 15 inżynierów oprogramowania, projektantów produktów i UX/UI, badaczy UX, badaczy danych i analityków danych przy projekcie The Opportunity Project, kierowanym przez US Census Bureau, Departament Handlu USA i FDA. Wykorzystano dane federalne do zbudowania aplikacji, która zapewni konsumentom (pacjentom) wiedzę na temat prywatności i bezpieczeństwa w zakresie ich danych zdrowotnych."],
+        "technologies": [
+            "Next.js", "JavaScript", "MongoDB", "Tailwind CSS"
         ]
       },
       {

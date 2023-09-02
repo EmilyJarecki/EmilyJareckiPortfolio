@@ -495,12 +495,22 @@
   "experience": [
     {
       "company": "Med-Vet International",
-      "title": "DevOps Engineer Intern",
+      "title": "Web Developer/Designer",
       "years": "08.2023 - Currently",
       "mainTech": [""],
       "description":["Seamlessly integrated backend and frontend using Smarty, a PHP parser, to ensure efficient data flow and dynamic content presentation on web pages. Demonstrated proficiency in API integration by making successful API calls, enabling seamless communication between different software systems and enhancing overall functionality. Leveraged Klaviyo to design and execute impactful email marketing campaigns, enhancing customer engagement and brand communication."],
       "technologies": [
           "JavaScript", "HTML", "CSS", "Klaviyo", "Adobe", "Smarty", "Bootstrap", "jQuery"
+      ]
+    },
+    {
+      "company": "SpaceLab",
+      "title": "DevOps Engineer Intern",
+      "years": "06.2023 - 08.2023",
+      "mainTech": [""],
+      "description":["Led DevOps team meetings to discuss 2-week sprint MVPs including hosting landing pages live on subdomain, troubleshooting issues, and deploying REST APIs utilizing AWS infrastructure. Conducted in-depth research on various hosting methods for landing pages on subdomains and presented findings to cross-functional teams, leading to informed decisions and the adoption of an optimal hosting strategy."],
+      "technologies": [
+          "AWS", "Linux"
       ]
     },
     {
